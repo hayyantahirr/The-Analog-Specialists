@@ -40,9 +40,19 @@ div > h2 {
   font-size: 1.5rem;
   padding-top: 10px;
   padding-bottom: 10px;
+  cursor: pointer;
 }
 
 .ul {
   margin-left: 520px;
 }
-
+.img-div{
+    width: 600px;
+    margin-left: 385px;
+    margin-top: 20px;
+}
+.text-div{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 20px;
+}
