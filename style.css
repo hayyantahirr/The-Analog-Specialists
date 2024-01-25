@@ -6,9 +6,43 @@ html {
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
+
+  text-decoration: none;
+}
+.head-div {
+  margin-top: 60px;
+  text-align: center;
+}
+div > p {
+  font-size: 2.3rem;
+}
+div > h1 {
+  font-size: 4rem;
+}
+div > h2 {
+  font-size: 2.6rem;
+}
+.hr-1 {
+    margin-top: 20px;
+  width: 700px;
+  margin-left: 410px;
+}
+.hr-2 {
+    
+  width: 700px;
+  margin-left: 410px;
+}
+.li {
+  /* text-align: center; */
+  display: inline-block;
+  padding-left: 50px;
+  font-size: 1.5rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
-
-
+.ul {
+  margin-left: 520px;
+}
 
